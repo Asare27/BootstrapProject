@@ -455,21 +455,7 @@ blockquote::after
     padding: 10px;
     margin: 15px;
 }
-.contact-info .fas 
-{
-   margin: 10px;
-   color: #007bff;
-   font-weight: bold;
-}
-
-.contact-info .fab 
-{
-   margin: 10px;
-   color: #007bff;
-   font-weight: bold;
-}
-
-.contact-info .far 
+.contact-info .fa 
 {
    margin: 10px;
    color: #007bff;
@@ -483,7 +469,7 @@ blockquote::after
     color: #fff;
     padding: 12px;
 }
-.far
+.fa
 {
     margin: 5px;
     color: red;
